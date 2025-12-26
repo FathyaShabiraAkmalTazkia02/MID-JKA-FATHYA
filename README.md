@@ -25,5 +25,6 @@ Repository ini berisi berkas tugas besar mata kuliah **Advanced Network / Jaring
 ## Identitas
 
 - Nama: Fathya Shabira Akmal Tazkia  
-- Kelas: 5A  
+- Kelas: 5A
+- NIM : 105841111923 
 - Mata kuliah: Jaringan Komputer / Advanced Network
